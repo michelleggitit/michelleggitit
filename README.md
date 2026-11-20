@@ -31,7 +31,7 @@ After stepping away to focus on other pursuits, I am excited to return to my roo
 ### 🚀 Featured Projects *(In Progress)*
 
 * **[Legacy Terminal-to-Web UI Wrapper](#)** *(Coming Soon)* — A Python & web-based modernization demo that parses fixed-width mainframe/terminal outputs into a responsive, searchable stakeholder dashboard.
-* **[Work-Order & Accounting Database System](#)** *(Coming Soon)* — A normalized PostgreSQL database schema, ERD, and automated reporting front-end modeled on real-world accounting office workflows.
+* **[Work-Order & Accounting Database System](#)** **https://github.com/michelleggitit/work-order-flow-db** — A normalized PostgreSQL database schema, ERD, and automated reporting front-end modeled on real-world accounting office workflows.
 * **[DICOM Metadata & Radiology Turnaround Analyzer](#)** *(Coming Soon)* — A Python tool using `pydicom` and SQL to analyze anonymized CT/X-ray scan headers and track department efficiency metrics.
 
 ---
